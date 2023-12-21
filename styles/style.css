@@ -1,0 +1,740 @@
+@import "./fonts.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* HEADER START */
+
+.page-header {
+  width: 100%;
+  background: #fff;
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+  padding-block: 15px;
+}
+
+.container {
+  max-width: 1330px;
+  width: 100%;
+  padding: 0 20px;
+  margin: auto;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-part {
+  display: flex;
+  gap: 30px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.header-nav_link {
+  color: #222;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+  /* padding-block: 31px 25px; */
+}
+
+.get-app {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.get-app_link {
+  color: #222;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.get-app_btn {
+  color: #fff;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  border-radius: 48px;
+  border: 1px solid #fff;
+  background: #222;
+  width: 131px;
+  height: 48px;
+  transition: 0.5s;
+}
+
+.get-app_btn:hover {
+  background-color: #fff;
+  color: #222;
+  border: 1px solid #000;
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.burger-menu {
+  width: 30px;
+  height: 20px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+.burger-menu span {
+  position: absolute;
+  background-color: #222;
+  width: 100%;
+  height: 2px;
+  border-radius: 1px;
+  transition: 0.4s;
+}
+
+.burger-menu span::after {
+  position: absolute;
+  content: "";
+  background-color: #222;
+  width: 100%;
+  height: 100%;
+  bottom: -10px;
+  border-radius: 1px;
+  transition: 0.4s;
+}
+
+.burger-menu span::before {
+  position: absolute;
+  content: "";
+  background-color: #222;
+  width: 100%;
+  height: 100%;
+  top: -10px;
+  border-radius: 1px;
+  transition: 0.4s;
+}
+
+.burger-menu.show span {
+  background-color: transparent;
+}
+.burger-menu.show span::after {
+  bottom: 0;
+  transform: rotate(-45deg);
+}
+.burger-menu.show span::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+/* HEADER END */
+
+/* BANNER START */
+
+.banner {
+  padding-block: 40px 74px;
+  gap: 30px;
+}
+
+.shopping-info {
+  max-width: 400px;
+  height: 366px;
+  margin-bottom: 50px;
+}
+
+.shopping-play {
+  display: flex;
+}
+
+.shopping-play {
+  gap: 7px;
+}
+
+.play-icon {
+  width: 29px;
+  height: 29px;
+}
+
+.shopping-info_subtitle {
+  color: #000;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.shopping-title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 50.4px;
+  margin-top: 33px;
+}
+
+.shopping-info_title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 50.4px;
+}
+
+.shopping-info_sub {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  margin-block: 23px 13px;
+  width: 400px;
+}
+
+.shopping-info_apps {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.shopping-app {
+  width: 169px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.shopping-info_app {
+  width: 169px;
+  height: 50px;
+}
+
+.banner-img {
+  height: 470px;
+}
+.banner-img_img {
+  max-width: 585px;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+}
+
+/* BANNER END */
+
+/* BOOST START */
+
+.boost {
+  padding-block: 23px 99px;
+  gap: 30px;
+}
+
+.boost-img {
+  height: 630px;
+}
+
+.boost-img_img {
+  max-width: 585px;
+  width: 100%;
+  height: 100%;
+}
+
+.boost-info {
+  max-width: 480px;
+  height: 220px;
+}
+
+.boost-info_title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 100%;
+}
+
+.boost-info_text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  margin-block: 22px 12px;
+  width: 100%;
+}
+
+.second-text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 100%;
+}
+
+/* BOOST END */
+
+/* ZEN START */
+
+.zen {
+  padding-block: 32px 30px;
+  gap: 30px;
+}
+
+.zen-info {
+  max-width: 451px;
+  height: 368px;
+  padding-top: 50px;
+}
+
+.zen-title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 100%;
+}
+
+.zen-sub {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 100%;
+  margin-block: 22px 12px;
+}
+
+.zen-subs {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 366px;
+  margin-bottom: 17px;
+}
+
+.zen-subtitle {
+  color: #000;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 100%;
+  height: 167px;
+}
+
+.zen-img {
+  height: 587px;
+}
+
+.zen-img_img {
+  max-width: 585px;
+  width: 100%;
+  height: 100%;
+}
+
+.zen-cashback {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 117px;
+}
+
+.zen-cashback_title {
+  color: #222;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 236px;
+}
+
+.cashback-text {
+  color: #222;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 584px;
+  margin-bottom: 46px;
+}
+
+.zen-btn {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  width: 237px;
+  height: 48px;
+  border-radius: 48px;
+  border: 1px solid #000;
+  background: #222;
+  transition: 0.5s;
+}
+
+.zen-btn:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #222;
+  transform: scale(1.1);
+}
+
+.logoes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 108px;
+  padding-block: 60px;
+  max-width: 1200px;
+}
+
+.logoes-a {
+  width: 193px;
+  height: 70px;
+}
+
+/* ZEN END */
+
+/* MASTERCARD START */
+
+.mastercard {
+  padding-block: 47px 73px;
+  gap: 30px;
+}
+
+.mastercard-info {
+  width: 480px;
+  padding-top: 70px;
+  height: 331px;
+}
+
+.info-title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 436px;
+}
+
+.info-text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  margin-block: 22px 28px;
+}
+
+.mastercard-stores {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.mastercard-img {
+  height: 589px;
+}
+
+.mastercard-img_img {
+  max-width: 585px;
+  width: 100%;
+  height: 100%;
+}
+
+.marstercard-images {
+  width: 91px;
+  height: 58px;
+}
+
+/* MASTERCARD END */
+
+/* SHOPPING START */
+
+.shopping {
+  padding-block: 57px 63px;
+  gap: 30px;
+}
+
+.shop-img {
+  height: 422px;
+}
+
+.shop-img_img {
+  max-width: 585px;
+  width: 100%;
+  height: 100%;
+}
+
+.shop-info {
+  width: 480px;
+  height: 253px;
+}
+
+.shop-title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 379px;
+}
+
+.shop-info_text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 478px;
+  margin-block: 22px 10px;
+}
+
+.shop-text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+}
+
+/* SHOPPING END */
+
+/* APP START */
+
+.app {
+  padding-block: 53px 68px;
+  gap: 30px;
+}
+
+.app-info {
+  width: 480px;
+  height: 296px;
+  padding-top: 50px;
+}
+
+.app-info_title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 374px;
+}
+
+.app-info_text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 475px;
+  margin-block: 19px 15px;
+}
+
+.info_text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 465px;
+}
+
+.app-img {
+  max-width: 585px;
+}
+
+.app-img_img {
+  height: 522px;
+  width: 100%;
+  height: 100%;
+}
+
+/* APP END */
+
+/* ACCOUNT START */
+
+.account {
+  padding-block: 82px 125px;
+  gap: 30px;
+  background: #fff;
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+}
+
+.account-img {
+  max-width: 585px;
+}
+
+.account-img_img {
+  height: 458px;
+  width: 100%;
+}
+
+.account-info {
+  width: 480px;
+  height: 363px;
+}
+
+.account-info_title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43.2px;
+  width: 277px;
+}
+
+.account-info_text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  width: 433px;
+  margin-block: 22px 12px;
+}
+
+.account-text {
+  color: #222;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25.92px;
+  margin-bottom: 32px;
+}
+
+.account-stores {
+  display: flex;
+  gap: 20px;
+}
+
+.account-store_img {
+  width: 169px;
+  height: 50px;
+}
+
+/* ACCOUNT END */
+
+/* CONTACT START */
+
+.contact {
+  padding-block: 69px 65px;
+}
+
+.contact-content {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  column-gap: 100px;
+  margin-left: 50px;
+}
+
+.learn {
+  width: 92px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Discover {
+  width: 98px;
+  height: 142px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Offer {
+  width: 60px;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Language {
+  width: 74px;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+}
+.Follow {
+  width: 72px;
+  height: 105px;
+  display: flex;
+  flex-direction: column;
+}
+
+.follow-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.Contact {
+  width: 98px;
+  height: 105px;
+}
+
+.a-title {
+  color: #222;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 33px;
+}
+
+.link {
+  color: #000;
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 13px;
+}
+
+.email {
+  color: #000;
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  width: 98px;
+}
+
+.zen-zero {
+  margin-block: 54px 26px;
+  margin-left: 50px;
+}
+
+.ZEN-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+
+.content-text {
+  color: #aaa;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.6px;
+  max-width: 700px;
+  width: 100%;
+  /* margin-left: 50px; */
+}
+
+/* CONTACT END */

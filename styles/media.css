@@ -1,0 +1,1688 @@
+@media (max-width: 1083px) {
+  .f {
+    margin-top: 50px;
+  }
+  .contact-content {
+    margin-left: 75px;
+  }
+  .zen-zero {
+    margin-left: 75px;
+  }
+
+  .ZEN-content {
+    padding-left: 75px;
+    padding-right: 100px;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .app {
+    padding-block: 30px;
+    gap: 50px;
+  }
+  .app-info {
+    max-width: 470px;
+    height: 310px;
+  }
+  .app-info_title {
+    font-size: 30px;
+  }
+  .app-info_text {
+    font-size: 16px;
+    margin-block: 15px 10px;
+    width: 100%;
+  }
+  .info_text {
+    font-size: 16px;
+    width: 100%;
+  }
+  .app-img {
+    max-width: 450px;
+  }
+  .app-img_img {
+    height: 500px;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* mastercard */
+  .mastercard-img {
+    height: 520px;
+  }
+  .mastercard-img_img {
+    max-width: 555px;
+  }
+  .mastercard-info {
+    max-width: 450px;
+    padding-top: 70px;
+    height: 331px;
+  }
+  .marstercard-images {
+    width: 85px;
+    height: 50px;
+  }
+  .info-title {
+    font-size: 30px;
+  }
+  .info-text {
+    font-size: 16px;
+    margin-block: 20px 25px;
+  }
+  .matercard-stores {
+    gap: 15px;
+  }
+  /* matrecard end */
+
+  /* banner  */
+  .shopping-info_subtitle {
+    font-size: 14px;
+  }
+  .shopping-title {
+    font-size: 30px;
+  }
+  .shopping-info_title {
+    font-size: 35px;
+  }
+  .shopping-info_sub {
+    font-size: 16px;
+  }
+  .shopping-app {
+    width: 150px;
+    height: 40px;
+    margin-bottom: 15px;
+  }
+  .shopping-info_app {
+    width: 150px;
+    height: 40px;
+  }
+  /* banner end */
+
+  /* boost start */
+  .boost {
+    padding-block: 18px 25px;
+    gap: 30px;
+  }
+  .boost-img {
+    height: 500px;
+  }
+
+  .boost-img_img {
+    max-width: 550px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .boost-info {
+    max-width: 450px;
+    height: 220px;
+  }
+  .boost-info_title {
+    font-size: 30px;
+  }
+  .boost-info_text {
+    font-size: 15px;
+  }
+  .second-text {
+    font-size: 15px;
+  }
+  /* boost end */
+
+  /* zen */
+  .zen {
+    padding-block: 25px;
+  }
+  .zen-info {
+    max-width: 430px;
+    height: 350px;
+    padding-top: 35px;
+  }
+  .zen-title {
+    font-size: 30px;
+  }
+  .zen-sub {
+    font-size: 16px;
+    margin-block: 20px 10px;
+    width: 420px;
+  }
+  .zen-subs {
+    font-size: 16px;
+    margin-bottom: 14px;
+  }
+  .zen-subtitle {
+    font-size: 16px;
+  }
+  .zen-img {
+    height: 545px;
+  }
+
+  .zen-img_img {
+    max-width: 565px;
+    width: 100%;
+    height: 100%;
+  }
+  .zen-cashback {
+    padding-top: 80px;
+  }
+  .zen-cashback_title {
+    font-size: 30px;
+  }
+  .cashback-text {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .zen-btn {
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+  }
+  .logoes {
+    gap: 45px;
+    padding-block: 39px;
+  }
+  .logoes-a {
+    width: 180px;
+    height: 60px;
+  }
+  .logoes-two_a {
+    width: 180px;
+    height: 60px;
+  }
+  /* zen end */
+  .shopping {
+    padding-top: 0px;
+    gap: 30px;
+  }
+  .shop-img {
+    height: 400px;
+  }
+
+  .shop-img_img {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+  }
+  .shop-info {
+    padding-top: 60px;
+    max-width: 400px;
+    height: 253px;
+  }
+
+  .shop-title {
+    font-size: 30px;
+    width: 100%;
+  }
+
+  .shop-info_text {
+    font-size: 16px;
+    width: 100%;
+    margin-block: 15px 10px;
+  }
+
+  .shop-text {
+    font-size: 16px;
+    width: 100%;
+  }
+  .account-img {
+    max-width: 450px;
+  }
+  .account-img_img {
+    height: auto;
+    width: 100%;
+  }
+  .account-info {
+    max-width: 400px;
+    height: 363px;
+  }
+  .account-info_title {
+    font-size: 30px;
+    width: 277px;
+  }
+  .account-info_text {
+    font-size: 16px;
+    margin-block: 18px 8px;
+    width: 100%;
+  }
+  .account-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .account-stores {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .account-store_img {
+    width: 140px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 950px) {
+  .account {
+    padding-block: 50px 85px;
+  }
+  .account-img {
+    max-width: 430px;
+  }
+  .account-info {
+    padding-top: 30px;
+    height: 353px;
+  }
+  .account-info_title {
+    font-size: 25px;
+  }
+  .account-info_text {
+    font-size: 14px;
+    margin-block: 15px 5px;
+  }
+  .account-text {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .account-stores {
+    display: flex;
+    gap: 5px;
+    width: 100%;
+  }
+  .account-store_img {
+    width: 125px;
+    height: 40px;
+  }
+  .app-info {
+    max-width: 400px;
+    padding-bottom: 50px;
+    height: 350px;
+  }
+  .app {
+    padding: 0px;
+  }
+  .app-info_title {
+    font-size: 25px;
+  }
+  .app-info_text {
+    font-size: 14px;
+    margin-block: 10px 5px;
+  }
+  .app-img {
+    max-width: 430px;
+  }
+  .app-img_img {
+    height: 380px;
+    width: 100%;
+    height: 100%;
+  }
+  .info-text {
+    font-size: 14px;
+  }
+  .shop-img {
+    height: 390px;
+  }
+
+  .shop-img_img {
+    max-width: 450px;
+    width: 100%;
+    height: 100%;
+  }
+  .mastercard {
+    padding-block: 10px 30px;
+  }
+  .header-nav_link {
+    font-size: 14px;
+  }
+  .get-app_link {
+    font-size: 14px;
+  }
+  .get-app_btn {
+    font-size: 16px;
+    width: 100px;
+    height: 38px;
+  }
+  .mastercard-img {
+    height: 500px;
+  }
+  .mastercard-img_img {
+    max-width: 525px;
+  }
+
+  /* header end */
+
+  /* boost  */
+  .boost {
+    padding-block: 18px 30px;
+    gap: 40px;
+  }
+  .boost-img {
+    height: 480px;
+  }
+
+  .boost-img_img {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .boost-info {
+    max-width: 425px;
+    height: 220px;
+  }
+  .boost-info_title {
+    font-size: 25px;
+  }
+  .boost-info_text {
+    font-size: 15px;
+  }
+  .second-text {
+    font-size: 15px;
+  }
+
+  /* boost end */
+}
+
+@media (max-width: 935px) {
+  .e {
+    margin-top: 50px;
+  }
+  .contact-content {
+    margin-left: 100px;
+  }
+  .zen-zero {
+    margin-left: 100px;
+  }
+
+  .ZEN-content {
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 870px) {
+  .account {
+    padding-block: 50px 65px;
+  }
+  .account-img {
+    max-width: 400px;
+  }
+  .account-img_img {
+    height: 350px;
+    width: 100%;
+  }
+  .account-info {
+    max-width: 350px;
+    padding-top: 25px;
+    height: 353px;
+  }
+  .account-info_title {
+    height: 80px;
+  }
+  .account-info_text {
+    margin-block: 9px 4px;
+  }
+  .account-text {
+    margin-bottom: 10px;
+  }
+  .account-store_img {
+    width: 115px;
+    height: 35px;
+  }
+  .shop-img {
+    height: 350px;
+  }
+
+  .shop-img_img {
+    max-width: 430px;
+    width: 100%;
+    height: 100%;
+  }
+  .shop-info {
+    padding-top: 35px;
+    max-width: 340px;
+    height: 253px;
+  }
+  .zen-info {
+    max-width: 400px;
+    height: 330px;
+    padding-top: 70px;
+  }
+  .zen-title {
+    font-size: 25px;
+  }
+  .zen-sub {
+    font-size: 14px;
+    margin-block: 15px 5px;
+    width: 360px;
+  }
+  .zen-subs {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .zen-subtitle {
+    font-size: 14px;
+  }
+  .zen-img {
+    height: 485px;
+  }
+
+  .zen-img_img {
+    max-width: 520px;
+    width: 100%;
+    height: 100%;
+  }
+  .zen-cashback {
+    padding-top: 70px;
+  }
+  .zen-cashback_title {
+    font-size: 25px;
+  }
+  .cashback-text {
+    font-size: 14px;
+    margin-bottom: 25px;
+  }
+  .zen-btn {
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+  }
+  .logoes {
+    gap: 40px;
+    padding-block: 30px;
+  }
+  .logoes-a {
+    width: 170px;
+    height: 50px;
+  }
+  .logoes-two_a {
+    width: 170px;
+    height: 50px;
+  }
+
+  /* zen end */
+
+  /* boost start */
+  .boost {
+    padding-block: 18px 25px;
+  }
+  .boost-info {
+    max-width: 380px;
+  }
+
+  /* header logo */
+
+  .site-logo {
+    width: 100px;
+    height: 30px;
+  }
+
+  /* banner */
+  .banner {
+    padding-block: 25px 30px;
+    gap: 20px;
+  }
+  .shopping-info {
+    max-width: 380px;
+    height: 340px;
+    padding-top: 50px;
+  }
+  .shopping-info_subtitle {
+    font-size: 13px;
+  }
+  .shopping-title {
+    font-size: 23px;
+    margin-top: 0px;
+    width: 100%;
+  }
+  .shopping-info_title {
+    font-size: 27px;
+    width: 100%;
+  }
+  .shopping-info_sub {
+    font-size: 13px;
+    margin-block: 0px;
+    width: 100%;
+  }
+  .shopping-app {
+    width: 135px;
+    height: 35px;
+    margin-bottom: 10px;
+  }
+  .shopping-info_app {
+    width: 135px;
+    height: 35px;
+  }
+  .banner-img {
+    height: 350px;
+  }
+  .banner-img_img {
+    max-width: 500px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+  }
+  .info-title {
+    font-size: 25px;
+  }
+  .info-text {
+    font-size: 14px;
+  }
+  .matercard-stores {
+    gap: 13px;
+  }
+  .marstercard-images {
+    width: 75px 45px;
+  }
+  .mastercard-info {
+    max-width: 415px;
+    padding-top: 65px;
+    height: 310px;
+  }
+  .mastercard-img {
+    height: 470px;
+  }
+  .mastercard-img_img {
+    max-width: 505px;
+  }
+  .app-info {
+    max-width: 350px;
+    margin-bottom: 50px;
+    height: 300px;
+  }
+  .app-info_title {
+    font-size: 25px;
+  }
+  .app-info_text {
+    font-size: 14px;
+    margin-block: 10px 5px;
+  }
+  .info_text {
+    font-size: 14px;
+  }
+  .app-img {
+    max-width: 400px;
+  }
+  .app-img_img {
+    height: 480px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (max-width: 830px) {
+  .shopping {
+    padding-top: 60px;
+  }
+  .shop-img {
+    height: 330px;
+  }
+
+  .shop-img_img {
+    max-width: 410px;
+    width: 100%;
+    height: 100%;
+  }
+  .shop-info {
+    padding-top: 45px;
+    max-width: 320px;
+    height: 280px;
+  }
+  .shop-title {
+    font-size: 25px;
+  }
+  .shop-info_text {
+    font-size: 14px;
+    margin-block: 10px 5px;
+  }
+  .shop-text {
+    font-size: 14px;
+  }
+  .mastercard-img {
+    height: 400px;
+  }
+  .mastercard-img_img {
+    max-width: 430px;
+  }
+  .mastercard {
+    padding-block: 0px 30px;
+  }
+  .zen-img {
+    height: 445px;
+  }
+  .zen-img_img {
+    max-width: 480px;
+  }
+  .zen-info {
+    max-width: 370px;
+    height: 300px;
+    padding-top: 0px;
+  }
+  .header-nav_link {
+    font-size: 12px;
+  }
+  .get-app_link {
+    font-size: 12px;
+  }
+  .get-app_btn {
+    font-size: 16px;
+    width: 90px;
+    height: 36px;
+  }
+
+  .boost-img {
+    height: 460px;
+  }
+
+  .boost-img_img {
+    max-width: 480px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .boost-info {
+    max-width: 345px;
+    height: 220px;
+  }
+  .boost-info_title {
+    font-size: 22px;
+  }
+  .boost-info_text {
+    font-size: 14px;
+  }
+  .second-text {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 813px) {
+  .d {
+    margin-top: 40px;
+  }
+  .contact-content {
+    margin-left: 150px;
+  }
+  .zen-zero {
+    margin-left: 150px;
+  }
+
+  .ZEN-content {
+    padding-left: 150px;
+  }
+}
+
+@media (max-width: 768px) {
+  .zen-zero {
+    margin-left: 105px;
+  }
+
+  .ZEN-content {
+    padding-left: 105px;
+  }
+  .content-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .contact-content {
+    margin-left: 105px;
+  }
+  .app-info {
+    max-width: 320px;
+    margin-bottom: 50px;
+    height: 290px;
+  }
+  .app-info_title {
+    font-size: 20px;
+    width: 100%;
+  }
+  .app-info_text {
+    font-size: 13px;
+    margin-block: 10px 5px;
+  }
+  .app-img {
+    max-width: 360px;
+  }
+  .app-img_img {
+    height: 450px;
+    width: 100%;
+    height: 100%;
+  }
+  .info_text {
+    font-size: 13px;
+  }
+  .shopping {
+    padding-top: 30px;
+  }
+  .shop-img {
+    height: 300px;
+  }
+
+  .shop-img_img {
+    max-width: 330px;
+    width: 100%;
+    height: 100%;
+  }
+  .shop-info {
+    padding-top: 30px;
+    max-width: 300px;
+    height: 300px;
+  }
+  .shop-title {
+    font-size: 20px;
+  }
+  .shop-info_text {
+    font-size: 13px;
+    margin-block: 5px 3px;
+  }
+  .shop-text {
+    font-size: 13px;
+  }
+  .zen-img {
+    height: 405px;
+  }
+  .zen-img_img {
+    max-width: 420px;
+  }
+  .zen-info {
+    max-width: 340px;
+    height: 200px;
+    transform: translateY(-50px);
+  }
+  .burger-menu {
+    display: flex;
+  }
+  .header-nav {
+    position: absolute;
+    width: 30%;
+    height: 100vh;
+    top: 0;
+    background: #fff;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    left: -100%;
+    transition: 0.4s;
+  }
+  .header-nav.active {
+    left: 0;
+  }
+  .get-app {
+    position: absolute;
+    width: 40%;
+    height: 100vh;
+    top: 0;
+    background: #fff;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    left: -100%;
+    transition: 0.4s;
+  }
+  .get-app.active {
+    left: 0;
+  }
+  .shopping-info_subtitle,
+  .shopping-info_sub {
+    font-size: 12px;
+  }
+  .shopping-title {
+    font-size: 20px;
+  }
+  .shopping-info_title {
+    font-size: 23px;
+  }
+  .shopping-app,
+  .shopping-info_app {
+    width: 125px;
+  }
+  .banner-img {
+    height: 325px;
+  }
+  .banner-img_img {
+    max-width: 475px;
+    height: 100%;
+    width: 100%;
+  }
+  .site-logo {
+    width: 90px;
+    height: 25px;
+  }
+  .boost-img {
+    height: 440px;
+  }
+
+  .boost-img_img {
+    max-width: 420px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .boost-info {
+    max-width: 325px;
+    height: 170px;
+    margin-bottom: 60px;
+  }
+  .boost-info_title {
+    font-size: 21px;
+  }
+  .boost-info_text {
+    font-size: 13.5px;
+    margin-block: 18px 10px;
+  }
+  .second-text {
+    font-size: 13.5px;
+  }
+  .mastercard-img {
+    height: 350px;
+  }
+  .mastercard-img_img {
+    max-width: 380px;
+  }
+  .mastercard-info {
+    max-width: 350px;
+    margin-bottom: 50px;
+    height: 300px;
+  }
+  .info-title {
+    font-size: 20px;
+  }
+  .info-text {
+    font-size: 12px;
+    margin-block: 10px 20px;
+  }
+  .marstercard-images {
+    width: 70px;
+    height: 40px;
+  }
+  .mastercard-stores {
+    gap: 9px;
+  }
+  .account-img {
+    max-width: 360px;
+  }
+  .account-img_img {
+    height: 321px;
+    width: 100%;
+  }
+  .account-info {
+    max-width: 320px;
+    padding-top: 25px;
+    height: 353px;
+  }
+  .account-info_title {
+    height: 80px;
+    font-size: 20px;
+  }
+  .account-info_text {
+    margin-block: 9px 4px;
+    font-size: 13px;
+  }
+  .account-text {
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  .account-store_img {
+    width: 105px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 700px) {
+  .responsive {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .ressponsive {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  .contact-content {
+    margin-left: 85px;
+  }
+  .zen-zero {
+    margin-left: 85px;
+  }
+
+  .ZEN-content {
+    padding-left: 85px;
+  }
+  .boost {
+    padding-block: 50px 30px;
+    gap: 40px;
+  }
+  .boost-img {
+    height: 500px;
+  }
+
+  .boost-img_img {
+    max-width: 550px;
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+  }
+
+  .boost-info {
+    max-width: 450px;
+    height: 220px;
+  }
+  .boost-info_title {
+    font-size: 30px;
+  }
+  .boost-info_text {
+    font-size: 15px;
+  }
+  .second-text {
+    font-size: 15px;
+  }
+  .shopping-info {
+    max-width: 450px;
+    height: 400px;
+    padding-top: 50px;
+  }
+  .banner-img {
+    height: 450px;
+  }
+  .banner-img_img {
+    max-width: 500px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    margin-top: 30px;
+  }
+  .shopping-info_subtitle {
+    font-size: 14px;
+  }
+  .shopping-title {
+    font-size: 30px;
+    margin-top: 33px;
+  }
+  .shopping-info_title {
+    font-size: 35px;
+  }
+  .shopping-info_sub {
+    font-size: 16px;
+    margin-block: 23px 13px;
+  }
+  .shopping-app {
+    width: 150px;
+    height: 40px;
+  }
+  .shopping-info_app {
+    margin-block: 15px 30px;
+    width: 150px;
+    height: 40px;
+  }
+  .zen {
+    padding-block: 30px;
+  }
+  .zen-info {
+    max-width: 450px;
+    height: 415px;
+    padding-top: 35px;
+  }
+  .zen-title {
+    font-size: 30px;
+  }
+  .zen-sub {
+    font-size: 16px;
+    margin-block: 20px 10px;
+    width: 420px;
+  }
+  .zen-subs {
+    font-size: 16px;
+    margin-bottom: 14px;
+  }
+  .zen-subtitle {
+    font-size: 16px;
+  }
+  .zen-img {
+    height: 525px;
+  }
+
+  .zen-img_img {
+    max-width: 545px;
+  }
+  .zen-cashback {
+    padding-top: 60px;
+  }
+  .zen-cashback_title {
+    font-size: 30px;
+  }
+  .cashback-text {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .zen-btn {
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+  }
+  .logoes {
+    gap: 45px;
+    padding-block: 39px;
+  }
+  .logoes-a {
+    width: 180px;
+    height: 60px;
+  }
+  .logoes-two_a {
+    width: 180px;
+    height: 60px;
+  }
+  .mastercard-img {
+    height: 520px;
+  }
+  .mastercard-img_img {
+    max-width: 555px;
+  }
+  .mastercard-info {
+    max-width: 450px;
+    padding-top: 30px;
+    height: 331px;
+  }
+  .marstercard-images {
+    width: 85px;
+    height: 50px;
+  }
+  .info-title {
+    font-size: 30px;
+  }
+  .info-text {
+    font-size: 16px;
+    margin-block: 20px 25px;
+  }
+  .matercard-stores {
+    gap: 15px;
+  }
+  .shopping {
+    padding-top: 0px;
+    gap: 30px;
+  }
+
+  .shop-img {
+    height: 400px;
+  }
+
+  .shop-img_img {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .shop-info {
+    padding-top: 60px;
+    max-width: 400px;
+    height: 253px;
+  }
+
+  .shop-title {
+    font-size: 30px;
+    width: 100%;
+  }
+
+  .shop-info_text {
+    font-size: 16px;
+    width: 100%;
+    margin-block: 15px 10px;
+  }
+
+  .shop-text {
+    font-size: 16px;
+    width: 100%;
+  }
+  .app {
+    padding-block: 30px;
+    gap: 50px;
+  }
+  .app-info {
+    max-width: 470px;
+    height: 310px;
+  }
+  .app-info_title {
+    font-size: 30px;
+  }
+  .app-info_text {
+    font-size: 16px;
+    margin-block: 15px 10px;
+    width: 100%;
+  }
+  .info_text {
+    font-size: 16px;
+    width: 100%;
+  }
+  .app-img {
+    max-width: 450px;
+  }
+  .app-img_img {
+    height: 500px;
+    width: 100%;
+    height: 100%;
+  }
+  .account {
+    padding-block: 40px 45px;
+  }
+  .account-img {
+    max-width: 450px;
+  }
+  .account-img_img {
+    height: auto;
+    width: 100%;
+  }
+  .account-info {
+    max-width: 400px;
+    height: 363px;
+  }
+  .account-info_title {
+    font-size: 30px;
+    width: 277px;
+  }
+  .account-info_text {
+    font-size: 16px;
+    margin-block: 18px 8px;
+    width: 100%;
+  }
+  .account-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .account-stores {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .account-store_img {
+    width: 140px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 620px) {
+  .contact-content {
+    margin-left: 65px;
+  }
+  .zen-zero {
+    margin-left: 65px;
+  }
+
+  .ZEN-content {
+    padding-left: 65px;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact-content {
+    margin-left: 15px;
+  }
+  .zen-zero {
+    margin-left: 15px;
+  }
+
+  .ZEN-content {
+    padding-left: 15px;
+  }
+  .account-info_title {
+    font-size: 25px;
+    width: 100%;
+    height: 35px;
+  }
+  .account-info_text {
+    font-size: 14px;
+    margin-block: 20px 7px;
+    width: 100%;
+  }
+  .account-text {
+    font-size: 14px;
+    margin-bottom: 7px;
+    width: 100%;
+  }
+  .account-stores {
+    display: flex;
+    gap: 5px;
+    width: 100%;
+  }
+  .account-store_img {
+    width: 120px;
+    height: 40px;
+  }
+  .app {
+    padding-block: 30px;
+    gap: 50px;
+  }
+  .app-info {
+    max-width: 400px;
+    height: 310px;
+  }
+  .app-info_title {
+    font-size: 25px;
+  }
+  .app-info_text {
+    font-size: 14px;
+    margin-block: 15px 10px;
+    width: 100%;
+  }
+  .info_text {
+    font-size: 14px;
+    width: 100%;
+  }
+  .app-img {
+    width: 100%;
+  }
+  .app-img_img {
+    height: auto;
+    width: 100%;
+    height: 100%;
+  }
+  .shop-img {
+    width: 100%;
+  }
+
+  .shop-img_img {
+    height: auto;
+    width: 100%;
+    height: 100%;
+  }
+  .mastercard-info {
+    padding-top: 50px;
+  }
+  .mastercard-img {
+    height: 450px;
+  }
+  .mastercard-img_img {
+    max-width: 555px;
+  }
+  .cashback-text {
+    width: 100%;
+  }
+  .shopping-info_subtitle {
+    font-size: 12px;
+  }
+  .zen-img {
+    height: 445px;
+  }
+
+  .zen-img_img {
+    max-width: 500px;
+  }
+  .logoes {
+    gap: 30px;
+    padding-block: 35px;
+  }
+  .logoes-a {
+    width: 150px;
+    height: 35px;
+  }
+  .logoes-two_a {
+    width: 150px;
+    height: 35px;
+  }
+  .shopping-title {
+    font-size: 27px;
+    margin-top: 13px;
+  }
+  .shopping-info_title {
+    font-size: 30px;
+  }
+  .shopping-info_sub {
+    font-size: 14px;
+    margin-block: 12px 10px;
+  }
+  .shopping-app {
+    height: 37px;
+  }
+  .shopping-info_app {
+    height: 37px;
+    margin-block: 10px 20px;
+  }
+  .banner-img {
+    height: 400px;
+  }
+  .banner-img_img {
+    max-width: 480px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    margin-top: 25px;
+  }
+}
+
+@media (max-width: 504px) {
+  .contact-content {
+    margin-left: 60px;
+  }
+  .c {
+    margin-top: 40px;
+  }
+  .zen-zero {
+    margin-left: 60px;
+  }
+
+  .ZEN-content {
+    padding-left: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 470px) {
+  .shop-title {
+    font-size: 25px;
+  }
+  .shop-info_text {
+    font-size: 14px;
+    margin-block: 10px 5px;
+  }
+  .shop-text {
+    font-size: 14px;
+  }
+  .mastercard {
+    padding-bottom: 0px;
+  }
+  .mastercard-info {
+    width: 100%;
+  }
+  .info-title {
+    font-size: 25px;
+  }
+  .info-text {
+    font-size: 14px;
+    margin-block: 15px 20px;
+  }
+  .marstercard-images {
+    width: 70px;
+    height: 40px;
+  }
+  .mastercard-stores {
+    gap: 6px;
+  }
+  .mastercard-img {
+    height: 430px;
+  }
+  .mastercard-img_img {
+    max-width: 525px;
+  }
+  .shopping-info {
+    max-width: 400px;
+    height: 380px;
+    padding-top: 45px;
+  }
+  .shopping-title {
+    font-size: 24px;
+    margin-top: 7.5px;
+  }
+  .shopping-info_title {
+    font-size: 27px;
+  }
+  .shopping-info_sub {
+    margin-block: 10px 10px;
+  }
+  .banner-img {
+    height: 380px;
+  }
+  .banner-img_img {
+    max-width: 400px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    padding-top: 0px;
+  }
+  .shopping-info_app {
+    margin-block: 10px 20px;
+  }
+  .boost {
+    padding-block: 60px 30px;
+  }
+  .boost-img {
+    height: 455px;
+  }
+
+  .boost-img_img {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+  }
+
+  .boost-info {
+    max-width: 430px;
+    height: 190px;
+  }
+  .boost-info_title {
+    font-size: 25px;
+  }
+  .boost-info_text {
+    font-size: 14px;
+  }
+  .second-text {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 430px) {
+  .contact-content {
+    margin-left: 40px;
+  }
+  .zen-zero {
+    margin-left: 40px;
+  }
+
+  .ZEN-content {
+    padding-left: 40px;
+  }
+  .account-info {
+    width: 100%;
+    height: 363px;
+  }
+  .app-info {
+    width: 100%;
+    height: 300px;
+  }
+  .shopping {
+    padding-bottom: 80px;
+  }
+  .mastercard-img {
+    height: 390px;
+  }
+  .mastercard-img_img {
+    max-width: 340px;
+  }
+  .mastercard-info {
+    width: 100%;
+    padding-top: 30px;
+    height: 331px;
+  }
+  .zen {
+    padding-block: 20px;
+  }
+  .zen-info {
+    width: 100%;
+    height: 420px;
+    padding-top: 0px;
+  }
+  .zen-title {
+    font-size: 25px;
+  }
+  .zen-sub {
+    font-size: 14px;
+    margin-block: 0px 10px;
+    width: 420px;
+  }
+  .zen-subs {
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+  .zen-subtitle {
+    font-size: 14px;
+  }
+  .zen-img {
+    height: 430px;
+  }
+
+  .zen-img_img {
+    max-width: 525px;
+  }
+  .zen-cashback {
+    padding-top: 60px;
+  }
+  .zen-cashback_title {
+    font-size: 30px;
+  }
+  .cashback-text {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .zen-btn {
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+  }
+  .logoes {
+    gap: 45px;
+    padding-block: 39px;
+  }
+  .logoes-a {
+    width: 180px;
+    height: 60px;
+  }
+  .logoes-two_a {
+    width: 180px;
+    height: 60px;
+  }
+  .banner-img {
+    height: 350px;
+  }
+  .banner-img_img {
+    max-width: 380px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    margin-top: 30px;
+  }
+  .shopping-info {
+    max-width: 320px;
+    height: 300px;
+    padding-top: 20px;
+  }
+  .shop-info {
+    width: 100%;
+  }
+  .mastercard-img {
+    height: 400px;
+  }
+  .mastercard-img_img {
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 398px) {
+  .account-info_title {
+    font-size: 25px;
+    width: 100%;
+    height: 75px;
+  }
+}
+
+@media (max-width: 370px) {
+  .contact-content {
+    margin-left: 10px;
+  }
+  .zen-zero {
+    margin-left: 10px;
+  }
+
+  .ZEN-content {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 340px) {
+  .contact-content {
+    margin-left: 20px;
+    column-gap: 60px;
+  }
+  .zen-zero {
+    margin-left: 20px;
+  }
+
+  .ZEN-content {
+    padding-left: 20px;
+  }
+  .shop-img {
+    height: 270px;
+  }
+  .shop-img_img {
+    width: 100%;
+  }
+  .shopping {
+    padding-bottom: 100px;
+  }
+  .banner-img {
+    height: 340px;
+  }
+  .banner-img_img {
+    max-width: 320px;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    padding-top: 40px;
+  }
+  .shopping-info {
+    max-width: 300px;
+    height: 290px;
+    padding-top: 20px;
+  }
+  .boost {
+    padding-block: 40px 20px;
+  }
+  .boost-img {
+    height: 380px;
+  }
+
+  .boost-img_img {
+    max-width: 460px;
+    width: 100%;
+    height: 100%;
+    margin-top: 45px;
+  }
+
+  .boost-info {
+    max-width: 430px;
+    height: 190px;
+  }
+  .boost-info_title {
+    font-size: 25px;
+  }
+  .boost-info_text {
+    font-size: 14px;
+  }
+  .second-text {
+    font-size: 14px;
+  }
+  .zen-info {
+    max-width: 300px;
+    width: 100%;
+    height: 320px;
+    display: -webkit-box;
+    -webkit-line-clamp: 7;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding-top: 50px;
+  }
+  .mastercard-img {
+    height: 350px;
+  }
+  .mastercard-img_img {
+    max-width: 300px;
+  }
+}
